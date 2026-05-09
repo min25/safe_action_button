@@ -11,8 +11,8 @@ A **production-ready** Flutter button package that prevents duplicate taps, dupl
 
 ## 🎥 App Demo
 <p align="center">
-  <img src="assets/gif1.gif" />
-  <img src="assets/gif2.gif" />
+  <img src="assets/gif1.gif" width="300" />
+  <img src="assets/gif2.gif" width="300" />
 </p>
 ---
 
@@ -43,7 +43,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  safe_action_button: 
+  safe_action_button: https://github.com/min25/safe_action_button.git
 ```
 
 Then run:
