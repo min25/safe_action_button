@@ -1,0 +1,30 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - always_declare_return_types
+    - always_put_required_named_parameters_first
+    - avoid_bool_literals_in_conditional_expressions
+    - avoid_redundant_argument_values
+    - avoid_returning_null_for_void
+    - avoid_shadowing_type_parameters
+    - avoid_unnecessary_containers
+    - avoid_void_async
+    - cancel_subscriptions
+    - close_sinks
+    - directives_ordering
+    - flutter_style_todos
+    - noop_primitive_operations
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - prefer_final_fields
+    - prefer_final_locals
+    - prefer_relative_imports
+    - prefer_single_quotes
+    - sort_pub_dependencies
+    - unawaited_futures
+    - unnecessary_lambdas
+    - unnecessary_parenthesis
+    - use_decorated_box
+    - use_if_null_to_convert_nulls_to_bools
+    - use_super_parameters
